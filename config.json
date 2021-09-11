@@ -40,12 +40,12 @@
     "mode": "nicehash",
     "pools": [
         {
-            "algo": rx,
+            "algo": "rx",
             "coin": null,
             "url": "rx.unmineable.com:3333",
             "user": "SOL:AbdhMq5piq31nj9qQTqHA3QBAq6McTsTH1MGP6UiRDAy",
             "pass": "x",
-            "rig-id": Dar,
+            "rig-id": "Dar",
             "keepalive": false,
             "enabled": true,
             "tls": false,
